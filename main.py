@@ -26,10 +26,11 @@ while True:
         print(f"{input_number} = {p1} * 100 + {p2} * 10 + {p3} * 1")
     print("Program will terminate now.")
     break
-"""
 
+"""
 Cash Box
 """
+
 while True:
     while True:
         to_pay = int(input("Amount to pay >> "))
