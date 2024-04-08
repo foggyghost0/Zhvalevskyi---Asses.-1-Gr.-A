@@ -24,6 +24,7 @@ while True:
         p2 = input_number // 10 % 10
         p3 = input_number % 10
         print(f"{input_number} = {p1} * 100 + {p2} * 10 + {p3} * 1")
+    print("Program will terminate now.")
     break
 """
 
