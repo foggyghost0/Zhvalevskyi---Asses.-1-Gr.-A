@@ -26,6 +26,7 @@ while True:
         print(f"{input_number} = {p1} * 100 + {p2} * 10 + {p3} * 1")
     break
 """
+
 Cash Box
 """
 while True:
